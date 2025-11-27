@@ -8,7 +8,7 @@
 
 *Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name*.
 
-!()[https://github.com/Sebostian19/ELK/blob/main/1.png]
+()[https://github.com/Sebostian19/ELK/blob/main/1.png]
 
 ---
 
